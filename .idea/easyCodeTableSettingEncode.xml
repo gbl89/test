@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EasyCodeTableSetting">
+    <option name="tableInfoMap">
+      <map>
+        <entry key="mydb.emp" value="eyJuYW1lIjoiRW1wIiwicHJlTmFtZSI6IiIsInRlbXBsYXRlR3JvdXBOYW1lIjoiRGVmYXVsdCIsImZ1bGxDb2x1bW4iOlt7Im5hbWUiOiJlbXBubyIsInR5cGUiOiJqYXZhLmxhbmcuSW50ZWdlciIsImN1c3RvbSI6ZmFsc2UsImV4dCI6Int9In0seyJuYW1lIjoiZW5hbWUiLCJ0eXBlIjoiamF2YS5sYW5nLlN0cmluZyIsImN1c3RvbSI6ZmFsc2UsImV4dCI6Int9In0seyJuYW1lIjoiam9iIiwidHlwZSI6ImphdmEubGFuZy5TdHJpbmciLCJjdXN0b20iOmZhbHNlLCJleHQiOiJ7fSJ9LHsibmFtZSI6Im1nciIsInR5cGUiOiJqYXZhLmxhbmcuSW50ZWdlciIsImN1c3RvbSI6ZmFsc2UsImV4dCI6Int9In0seyJuYW1lIjoiaGlyZWRhdGUiLCJ0eXBlIjoiamF2YS51dGlsLkRhdGUiLCJjdXN0b20iOmZhbHNlLCJleHQiOiJ7fSJ9LHsibmFtZSI6InNhbCIsInR5cGUiOiJqYXZhLmxhbmcuU3RyaW5nIiwiY3VzdG9tIjpmYWxzZSwiZXh0Ijoie30ifSx7Im5hbWUiOiJjb21tIiwidHlwZSI6ImphdmEubGFuZy5TdHJpbmciLCJjdXN0b20iOmZhbHNlLCJleHQiOiJ7fSJ9LHsibmFtZSI6ImRlcHRubyIsInR5cGUiOiJqYXZhLmxhbmcuSW50ZWdlciIsImN1c3RvbSI6ZmFsc2UsImV4dCI6Int9In1dLCJzYXZlUGFja2FnZU5hbWUiOiIiLCJzYXZlUGF0aCI6Ii4vU3ByaW5nLWJvb3QwMS9zcmMvbWFpbi9qYXZhIiwic2F2ZU1vZGVsTmFtZSI6IlNwcmluZy1ib290MDEifQ==" />
+      </map>
+    </option>
+  </component>
+</project>
