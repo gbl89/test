@@ -1,6 +1,9 @@
 spring:
   application:
     name: gbl-ai-agent
+  #优先加载的配置文件
+  profiles:
+    active: local
 server:
   port: 8123
   servlet:
